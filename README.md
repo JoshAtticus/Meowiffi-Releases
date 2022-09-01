@@ -1,2 +1,2 @@
 # Meowiffi-Releases
-Releases of when Meowiffi is it's own server.
+Releases of when Meowiffi is its own server.
